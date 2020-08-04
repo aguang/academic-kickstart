@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: August Guang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Genomics Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Brown University
+  url: "brown.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Both my research practices and organizing work are guided by the belief that crisis and uncertainty are a gift and that we must be involved in shaping how change happens.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Biology
+- Phylogenetics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Applied Mathematics
+    institution: Brown University
+    year: 2018
+  - course: MS in Applied Mathematics
+    institution: Brown University
+    year: 2014
+  - course: BSc in Mathematics
+    institution: Harvey Mudd College
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,18 +46,18 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/augustguang
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=u58B4VAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aguang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+August Guang, Genomics Data Scientist @ [Brown University's Computational Biology Core](https://www.brown.edu/research/projects/computational-biology-of-human-disease/), member @ [Tooth&Nail Collective](https://www.facebook.com/toothnail/) and member @ [Free Radicals](https://freerads.org/) East Coast.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I obtained my PhD in Applied Mathematics and Computational Biology from Brown University in 2017. My primary research interest is in quantifying uncertainty in genomics data; my dissertation was on uncertainty in phylogenetic workflows with an application to HIV transmission inference. In a way, that is also my motivation and mantra in community organizing: becoming comfortable with uncertainty and always pushing for change.
